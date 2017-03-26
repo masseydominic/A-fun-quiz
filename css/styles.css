@@ -7,11 +7,6 @@ body{
       background-repeat: no-repeat;
       background-size: contain;
 }
-#img2{
-  background-image: url("img/quiz-title.png");
-  background-position: right top;
-
-}
 #hello_id{
   color: white;
 }
